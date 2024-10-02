@@ -1,6 +1,11 @@
 # <center>Projeto Árvore Morse</center>
 
 ## Descrição do Projeto
+Grupo:  
+Gabriel Antony Olsson Schlagenhaufer  
+Igor Terplak Gutierrez  
+Kevin Henriques de Araújo Guimarães  
+Patrick Henrique Lazarett Froes
 Este projeto consiste em uma aplicação Java que implementa uma árvore binária para codificar e decodificar mensagens em código Morse. A árvore é preenchida com os códigos Morse padrão (letras de A a Z, números de 0 a 9), e permite que o usuário adicione novos códigos, busque códigos já existentes, e visualize a árvore construída.
 
 ### Funcionalidades
